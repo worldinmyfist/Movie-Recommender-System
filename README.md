@@ -12,7 +12,7 @@ jupyter notebook
 ```
 Then find [Movie Recommendation System.ipynb](https://github.com/worldinmyfist/Movie-Recommender-System/blob/master/Movie%20Recommendation%20System.ipynb) after you have downloaded it and open it.
 #### NOTE 
-While giving input in the file, please see to it that the movie you give is in [movies.csv](https://github.com/worldinmyfist/Movie-Recommender-System/blob/master/movies.csv) and the rating you give should be in the range [0.0-5.0].
+While giving input in the file, please see to it that the movie you give is in [movies.csv](https://github.com/worldinmyfist/Movie-Recommender-System/blob/master/movies.csv) and the rating you give should be in the range **[0.0 - 5.0]**.
 
 ## FEATURES
 * Recommends unseen movies according to your movie ratings and your favourite movie genres which you may like
