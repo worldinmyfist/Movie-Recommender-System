@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-
+A Machine Learning based Movie Recommender System which combines content-based filtering and collaborative filtering for better results. 
 ## PRE-REQUISITES
 ```bash
 pip install jupyterlab
