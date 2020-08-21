@@ -15,8 +15,8 @@ Then find [Movie Recommendation System.ipynb](https://github.com/worldinmyfist/M
 While giving input in the file, please see to it that the movie you give is in [movies.csv](https://github.com/worldinmyfist/Movie-Recommender-System/blob/master/movies.csv) and the rating you give should be in the range **[0.0 - 5.0]**.
 
 ## FEATURES
-* Recommends unseen movies according to your movie ratings and your favourite movie genres which you may like
-* Predicts the rating you will give to the movies that this model recommends
+* Recommends movies that you have not watched, according to your favourite genres and what similar users like you gave high ratings to.
+* Predicts the rating that you will give to the movies that this model recommend.
  
 ## AUTHOR
 [ARYAN AGARWAL](https://github.com/worldinmyfist/)
