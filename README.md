@@ -17,6 +17,9 @@ While giving input in the file, please see to it that the movie you give is in [
 ## FEATURES
 * Recommends movies that you have not watched, according to your favourite genres and what similar users like you gave high ratings to.
 * Predicts the rating that you will give to the movies that this model recommend.
+#### NOTE 
+* Try to give atleast 3 movies as user input for better results.
+* If you see -1 as predicted ratings for some recommended movie, it means data is insufficient. 
  
 ## AUTHOR
 [ARYAN AGARWAL](https://github.com/worldinmyfist/)
